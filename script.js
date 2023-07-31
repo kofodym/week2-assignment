@@ -9,3 +9,7 @@
 // 4. set the answer of the deduction to "age"
 // 5. Let the function return the "age"
 
+let birthYear = parseInt(prompt("Enter the Birth Year: "));
+let currentYear = parseInt(prompt("Enter the Current Year: "));
+let age;
+
