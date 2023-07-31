@@ -1,5 +1,5 @@
 # week2-assignment
-A simple age calculator
+<h1> A simple age calculator </h1>
 
 Create an HTML and JavaScript file, add boilerplate to the HTML file and link the JavaScript file to it, add and commit the changes after creating the file.
 
