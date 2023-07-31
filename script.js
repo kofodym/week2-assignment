@@ -13,3 +13,9 @@ let birthYear = parseInt(prompt("Enter the Birth Year: "));
 let currentYear = parseInt(prompt("Enter the Current Year: "));
 let age;
 
+function ageCalculator() {
+  age = currentYear - birthYear;
+  return age;
+}
+
+console.log(ageCalculator());
