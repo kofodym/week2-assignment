@@ -35,3 +35,8 @@ console.log(ageCalculator());
 
 
 const numbers = [4, 7, 8, 9, 5, 3, 2, 55];
+function arrayOfNos() {
+  for (let i = 0; i < numbers.length; i++) {
+   
+  }
+}
