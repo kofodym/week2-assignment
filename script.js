@@ -34,3 +34,4 @@ console.log(ageCalculator());
 // 8. Print out the result
 
 
+const numbers = [4, 7, 8, 9, 5, 3, 2, 55];
