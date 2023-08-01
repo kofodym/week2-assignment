@@ -17,5 +17,20 @@ function ageCalculator() {
   age = currentYear - birthYear;
   return age;
 }
-
 console.log(ageCalculator());
+
+
+
+// Lastly, create an array of numbers, loop through the array, and output only even numbers.
+// Pseudocode
+// 1. Declare the array with a set of numbers in it.
+// 2. Initialize a variable "even"
+// 2. create a loop, for loop structure
+// 3. initialize the first value to position 0 of the array
+// 4. initialize the last value to position -1 of the array
+// 5. If the number in the array divided by 2 gives no remainder, thats an even number
+// 6. Print out the number
+// 7. Loop through each element in the array to check if its divisible by 2 without any remainder
+// 8. Print out the result
+
+
